@@ -5,8 +5,6 @@ import random
 
 
 pg.init()
-
-
 def game_loop():
     x=250
     y=250
