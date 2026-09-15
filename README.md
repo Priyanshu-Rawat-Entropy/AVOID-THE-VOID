@@ -1,22 +1,16 @@
-# 🎮 AVOID THE VOID
-
 A simple 2D survival game built with **Python** and **Pygame**.
 Collect targets, increase your score and grow longer while trying to survive the moving Void!
 
-# 🕹️ About the Game
-
-**AVOID THE VOID** is a small arcade-style game created as one of my first projects using Pygame.
-
 The goal is simple:
-- 🟢 Move around the game area
-- 🔴 Collect the targets
-- ⭐ Increase your score
-- 🐍 Grow longer as you collect targets
-- ⚪ Avoid the moving Void
-- ⏱️ Try to survive as long as possible
+-  Move around the game area
+-  Collect the targets
+-  Increase your score
+-  Grow longer as you collect targets
+-  Avoid the moving Void
+-  Try to survive as long as possible
 The game combines simple movement, collision detection, random spawning, scoring and a continuously moving obstacle.
 
-# ⚙️ Technical Details
+# Technical Details
 
 | Component | Details |
 |-----------|---------|
@@ -45,34 +39,19 @@ Collect the targets to increase your score and grow your player trail.
 At the same time, avoid the moving Void.
 The longer you survive, the better!
 
-# ✨ Features
 
-- 🎮 Keyboard-controlled movement
-- 🏃 Continuous player movement
-- ⭐ Score system
-- 📈 Player growth mechanic
-- ⚪ Moving Void obstacle
-- 💥 Collision detection
-- 🎲 Randomized game elements
-- ⏱️ Survival timer
-- 🌈 Random colors for the player trail
 
-# 🛠️ Built With
-
-- **Python**
-- **Pygame**
-
-# 📋 Requirements
+# Requirements
 
 Make sure you have Python installed.
 
 Install Pygame with:
-'''
+'''text 
    bash
 pip install pygame
 '''
 
-# 🎮 Controls
+# Controls
 
 | Key | Action |
 |-----|--------|
@@ -82,25 +61,11 @@ pip install pygame
 | ➡️ D | Move Right |
 | Enter | Restart |
 
-
 # Gameplay Video
 
 https://github.com/user-attachments/assets/25b1eef5-b01a-40ee-9940-f10cdd25b137
 
-# 📚 What I Learned
-This project helped me practice:
-
-- Python programming
-- Pygame fundamentals
-- Game loops
-- Keyboard input handling
-- Collision detection
-- Random number generation
-- Basic game mechanics
-- Score and timer systems
-- Working with Git and GitHub
-
-# 🔮 Future Improvements
+# Future Improvements
 Some features I would like to add:
 
  - Main menu
