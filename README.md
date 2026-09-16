@@ -10,7 +10,7 @@ The goal is simple:
 -  Try to survive as long as possible
 The game combines simple movement, collision detection, random spawning, scoring and a continuously moving obstacle.
 
-# Technical Details
+## Technical Details
 
 | Component | Details |
 |-----------|---------|
@@ -33,15 +33,13 @@ The game combines simple movement, collision detection, random spawning, scoring
 | Randomization | Python `random` module |
 | Timer | Minutes and seconds |
 
-# Objective
+## Objective
 
 Collect the targets to increase your score and grow your player trail.
 At the same time, avoid the moving Void.
 The longer you survive, the better!
 
-
-
-# Requirements
+## Requirements
 
 Make sure you have Python installed.
 
@@ -51,7 +49,7 @@ Install Pygame with:
 pip install pygame
 '''
 
-# Controls
+## Controls
 
 | Key | Action |
 |-----|--------|
@@ -61,11 +59,11 @@ pip install pygame
 | ➡️ D | Move Right |
 | Enter | Restart |
 
-# Gameplay Video
+## Gameplay Video
 
 https://github.com/user-attachments/assets/25b1eef5-b01a-40ee-9940-f10cdd25b137
 
-# Future Improvements
+## Future Improvements
 Some features I would like to add:
 
  - Main menu
@@ -79,7 +77,7 @@ Some features I would like to add:
  - Multiple types of obstacles
  - Settings menu
 
-# Installation
+## Installation
 
 ### 1. Install Pygame
 
