@@ -78,4 +78,33 @@ Some features I would like to add:
  - Better graphics
  - Multiple types of obstacles
  - Settings menu
- 
+
+# Installation
+
+### 1. Install Pygame
+
+Make sure Python is installed, then install Pygame:
+
+```bash
+pip install pygame
+```
+
+### 2. Clone the Repository
+
+```bash
+git clone https://github.com/Priyanshu-Rawat-Entropy/AVOID-THE-VOID.git
+```
+
+### 3. Open the Project
+
+```bash
+cd AVOID-THE-VOID
+```
+
+### 4. Run the Game
+
+```bash
+python main.py
+```
+
+That's it! The game should open in a **500 × 500 Pygame window**.
