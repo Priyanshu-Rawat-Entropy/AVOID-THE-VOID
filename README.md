@@ -39,16 +39,6 @@ Collect the targets to increase your score and grow your player trail.
 At the same time, avoid the moving Void.
 The longer you survive, the better!
 
-## Requirements
-
-Make sure you have Python installed.
-
-Install Pygame with:
-'''text 
-   bash
-pip install pygame
-'''
-
 ## Controls
 
 | Key | Action |
